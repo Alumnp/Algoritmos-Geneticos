@@ -14,7 +14,7 @@ import org.jfree.data.xy.XYSeriesCollection;
 
 /**
  *
- * @author vazq
+ * @author vazqu
  */
 public class grafica {
 
