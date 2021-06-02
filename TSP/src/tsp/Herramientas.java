@@ -21,7 +21,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author valdo
+ * @author vazqu
  */
 public class Herramientas {
     public static void Datos(Individuo mejor) {
