@@ -7,7 +7,7 @@ package tsp;
 
 /**
  *
- * @author vazq
+ * @author vazqu
  */
 public class Genetico {
 
